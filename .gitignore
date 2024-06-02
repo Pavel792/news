@@ -1,0 +1,6 @@
+web/db.sqlite3
+web/web/__pycache__
+web/news/__pycache__
+web/news/migrations/__pycache__
+web/main/__pycache__
+web/main/migrations/__pycache__

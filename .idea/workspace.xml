@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0176fa9b-2719-4f4c-9486-df90228d5a6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/main/static/main/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/main/templates/main/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/main/templates/main/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/main/templates/main/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/main/templates/main/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/news/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/news/details_view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/news/news-delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/news/news_home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2gVVGha2cDPNRUxRAjYzsXc3vyY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JavaScript Debug.layout.html.executor": "Run",
+    "Python.urls.executor": "Run",
+    "Python.views.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/pmali/PycharmProjects/hospital",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0176fa9b-2719-4f4c-9486-df90228d5a6b" name="Changes" comment="" />
+      <created>1715782637400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715782637400</updated>
+      <workItem from="1715782638797" duration="8040000" />
+      <workItem from="1715878703735" duration="88000" />
+      <workItem from="1716295087795" duration="136000" />
+      <workItem from="1716295622775" duration="33000" />
+      <workItem from="1716368299129" duration="230000" />
+      <workItem from="1716369199422" duration="107000" />
+      <workItem from="1716395296847" duration="771000" />
+      <workItem from="1716398571973" duration="817000" />
+      <workItem from="1716961490928" duration="83000" />
+      <workItem from="1716961657102" duration="207000" />
+      <workItem from="1716984113791" duration="163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/__$urls.coverage" NAME="urls Coverage Results" MODIFIED="1716984166981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web/web" />
+  </component>
+</project>
