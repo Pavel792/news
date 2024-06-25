@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0176fa9b-2719-4f4c-9486-df90228d5a6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/main/static/main/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/main/templates/main/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/main/templates/main/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/main/templates/main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/main/templates/main/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/main/templates/main/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/main/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/news/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/news/templates/news/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/news/templates/news/details_view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/news/templates/news/news-delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/news/templates/news/news_home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/news/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/reequirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +44,8 @@
     "Python.views.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/pmali/PycharmProjects/hospital",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/pmali/PycharmProjects/Сайт с новостями",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -100,6 +82,7 @@
       <workItem from="1716961490928" duration="83000" />
       <workItem from="1716961657102" duration="207000" />
       <workItem from="1716984113791" duration="163000" />
+      <workItem from="1717747324605" duration="1714000" />
     </task>
     <servers />
   </component>

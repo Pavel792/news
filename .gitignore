@@ -1,4 +1,4 @@
-web/db.sqlite3
+.idea/
 web/web/__pycache__
 web/news/__pycache__
 web/news/migrations/__pycache__
